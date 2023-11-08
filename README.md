@@ -1,8 +1,9 @@
 # SnakeGame
-SnakeGame feito em java
+Snake Game made in java 
 
-Para fins de estudo: 
-Pacote awt
-https://docs.oracle.com/javase/7/docs/api/java/awt/event/package-summary.html
+> I recommend installing the zip file and running it in your own IDE, I used NetBeans but you can feel free to use eclipse or Visual Studio Code.
+
+#### Bugs: 
+* Apple is generated outside the panel.
 
 ![image](https://github.com/Ferre1ra1/SnakeGame/assets/100845421/23bcb176-2d1a-4223-8928-1758bc96fd8a)
